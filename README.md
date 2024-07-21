@@ -1,2 +1,1 @@
-# stupid-test
-a stupid test
+1
